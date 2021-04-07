@@ -34,3 +34,16 @@
 #post{
     margin-top: 2px;
 }
+footer{
+    background-color: chocolate;
+    height: 30px;
+}
+.container{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer h1{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
